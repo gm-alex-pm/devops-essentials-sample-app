@@ -1,3 +1,6 @@
 .DS_Store
 .gradle
 src/*.state
+*.tmp
+*.out
+tmp/*
